@@ -1,72 +1,99 @@
-# NeetCode Solutions — @hemnaath04
+<div align="center">
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+# 🧠 DSA Practice Journal
 
----
+### *A personal logbook of algorithmic problem-solving*
 
-## What is this?
+[![Language](https://img.shields.io/badge/Languages-Python%20%7C%20JS%20%7C%20Java%20%7C%20C%2B%2B-blue?style=for-the-badge)](#-supported-languages)
+[![Platform](https://img.shields.io/badge/Platform-NeetCode-2ea44f?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io)
+[![Status](https://img.shields.io/badge/Status-Actively%20Updating-success?style=for-the-badge)]()
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
-
----
-
-## How GitHub Sync works
-
-1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
+</div>
 
 ---
 
-## Repository structure
+## ✨ About this repository
 
-Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
+Welcome to my personal **Data Structures & Algorithms** practice space. This repo is a living archive of the problems I work through as I sharpen my problem-solving skills — every accepted solution lands here automatically, building a trail of progress one commit at a time.
+
+> *"An investment in knowledge pays the best interest."* — Benjamin Franklin
+
+---
+
+## 🎯 Why this exists
+
+- 📚 **Build intuition** — repeated exposure to patterns turns confusion into clarity
+- 🧩 **Track growth** — every commit is a small step forward
+- 🔁 **Revisit & refactor** — old solutions become reference material for new ones
+- 🛠️ **Sharpen craft** — clean code, better complexity, smarter trade-offs
+
+---
+
+## 🗂️ Repository structure
+
+Solutions are organized by topic, then by problem. Each problem can hold multiple attempts so you can see the journey from first cut to final form.
 
 ```
-<topic-folder>/
-  <problem-id>/
-    submission-0.<ext>   ← first submission
-    submission-1.<ext>   ← second submission
-    ...
+📁 <topic>/
+   └── 📁 <problem-id>/
+       ├── 📄 submission-0.<ext>   ← first attempt
+       ├── 📄 submission-1.<ext>   ← improved version
+       └── 📄 submission-n.<ext>   ← latest take
 ```
 
-**Example:**
+**A peek inside:**
+
 ```
-Data Structures & Algorithms/two-integer-sum/submission-0.py
-Data Structures & Algorithms/binary-search/submission-0.ts
-Python For Beginners/python-hello-world/submission-0.py
+Data Structures & Algorithms/
+  ├── two-integer-sum/submission-0.py
+  ├── binary-search/submission-0.ts
+  └── valid-palindrome/submission-0.py
 ```
 
 ---
 
-## Supported languages
+## 💻 Supported languages
 
-| Language | Extension |
+<div align="center">
+
+| 🐍 Python | 🟨 JavaScript | 🔷 TypeScript | ☕ Java | ⚙️ C++ |
+|:---:|:---:|:---:|:---:|:---:|
+| `.py` | `.js` | `.ts` | `.java` | `.cpp` |
+
+| 🟦 C# | 🐹 Go | 🦀 Rust | 🟪 Kotlin | 🍎 Swift | 🗄️ SQL |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| `.cs` | `.go` | `.rs` | `.kt` | `.swift` | `.sql` |
+
+</div>
+
+---
+
+## 🔄 How solutions land here
+
+Solutions sync automatically from [NeetCode.io](https://neetcode.io) via the **GitHub Sync** integration:
+
+1. 🔗 **Linked** — GitHub account connected at [neetcode.io/profile/github](https://neetcode.io/profile/github)
+2. ⚡ **Auto-commit** — submissions push here the moment they're accepted
+3. 📦 **Bulk sync** — historical solutions can be pulled in together
+4. ✏️ **Manual control** — individual submissions can be re-synced or removed
+
+---
+
+## 🧭 Navigating this repo
+
+| Looking for... | Head to... |
 |---|---|
-| Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
+| 🔍 A specific problem | The topic folder it belongs to |
+| 🆕 My latest work | Most recent commits in `git log` |
+| 🔁 Multiple attempts | The numbered `submission-n.<ext>` files |
+| 🌐 The original problem | [neetcode.io](https://neetcode.io) |
 
 ---
 
-## Settings
+<div align="center">
 
-Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
+### 🌱 *Progress, not perfection.*
 
-- **Auto-commit toggle** — enable or disable automatic commits on submission
-- **Status filter** — sync all submissions or accepted only
-- **Rename repository** — rename this repo or start fresh with a new one
-- **Bulk Sync** — push all past solutions at once (rate-limited)
+**Maintained by** [@hemnaath04](https://github.com/hemnaath04)
 
----
-
-*Generated by [NeetCode GitHub Integration](https://neetcode.io)*
+</div>
