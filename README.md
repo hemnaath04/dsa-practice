@@ -4,7 +4,7 @@
 
 ### *A personal logbook of algorithmic problem-solving*
 
-[![Language](https://img.shields.io/badge/Languages-Python%20%7C%20JS%20%7C%20Java%20%7C%20C%2B%2B-blue?style=for-the-badge)](#-supported-languages)
+[![Language](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)](#-language-of-choice)
 [![Platform](https://img.shields.io/badge/Platform-NeetCode-2ea44f?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io)
 [![Status](https://img.shields.io/badge/Status-Actively%20Updating-success?style=for-the-badge)]()
 
@@ -45,24 +45,25 @@ Solutions are organized by topic, then by problem. Each problem can hold multipl
 
 ```
 Data Structures & Algorithms/
-  ├── two-integer-sum/submission-0.py
-  ├── binary-search/submission-0.ts
-  └── valid-palindrome/submission-0.py
+  ├── two-integer-sum/submission-0.java
+  ├── binary-search/submission-0.java
+  └── valid-palindrome/submission-0.java
 ```
 
 ---
 
-## 💻 Supported languages
+## ☕ Language of choice
 
 <div align="center">
 
-| 🐍 Python | 🟨 JavaScript | 🔷 TypeScript | ☕ Java | ⚙️ C++ |
-|:---:|:---:|:---:|:---:|:---:|
-| `.py` | `.js` | `.ts` | `.java` | `.cpp` |
+### **Java** — my go-to for DSA
 
-| 🟦 C# | 🐹 Go | 🦀 Rust | 🟪 Kotlin | 🍎 Swift | 🗄️ SQL |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| `.cs` | `.go` | `.rs` | `.kt` | `.swift` | `.sql` |
+| Language | Where I use it |
+|:---:|:---|
+| ☕ **Java** `.java` | All DSA problems in this repo |
+| 🐍 **Python** `.py` | Everything else outside this repo |
+
+*Sticking with one language for DSA keeps the focus on patterns and problem-solving, not syntax.*
 
 </div>
 
