@@ -14,18 +14,18 @@
 
 ## ✨ About this repository
 
-Welcome to my personal **Data Structures & Algorithms** practice space. This repo is a living archive of the problems I work through as I sharpen my problem-solving skills — every accepted solution lands here automatically, building a trail of progress one commit at a time.
+Welcome to my personal **Data Structures & Algorithms** practice space. This repo is a living archive of the problems I work through as I sharpen my problem-solving skills: every accepted solution lands here automatically, building a trail of progress one commit at a time.
 
-> *"An investment in knowledge pays the best interest."* — Benjamin Franklin
+> *"An investment in knowledge pays the best interest."* (Benjamin Franklin)
 
 ---
 
 ## 🎯 Why this exists
 
-- 📚 **Build intuition** — repeated exposure to patterns turns confusion into clarity
-- 🧩 **Track growth** — every commit is a small step forward
-- 🔁 **Revisit & refactor** — old solutions become reference material for new ones
-- 🛠️ **Sharpen craft** — clean code, better complexity, smarter trade-offs
+- 📚 **Build intuition**: repeated exposure to patterns turns confusion into clarity
+- 🧩 **Track growth**: every commit is a small step forward
+- 🔁 **Revisit & refactor**: old solutions become reference material for new ones
+- 🛠️ **Sharpen craft**: clean code, better complexity, smarter trade-offs
 
 ---
 
@@ -56,7 +56,7 @@ Data Structures & Algorithms/
 
 <div align="center">
 
-### **Java** — my go-to for DSA
+### **Java**: my go-to for DSA
 
 | Language | Where I use it |
 |:---:|:---|
@@ -73,10 +73,10 @@ Data Structures & Algorithms/
 
 Solutions sync automatically from [NeetCode.io](https://neetcode.io) via the **GitHub Sync** integration:
 
-1. 🔗 **Linked** — GitHub account connected at [neetcode.io/profile/github](https://neetcode.io/profile/github)
-2. ⚡ **Auto-commit** — submissions push here the moment they're accepted
-3. 📦 **Bulk sync** — historical solutions can be pulled in together
-4. ✏️ **Manual control** — individual submissions can be re-synced or removed
+1. 🔗 **Linked**: GitHub account connected at [neetcode.io/profile/github](https://neetcode.io/profile/github)
+2. ⚡ **Auto-commit**: submissions push here the moment they're accepted
+3. 📦 **Bulk sync**: historical solutions can be pulled in together
+4. ✏️ **Manual control**: individual submissions can be re-synced or removed
 
 ---
 
